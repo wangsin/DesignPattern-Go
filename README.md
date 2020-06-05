@@ -8,7 +8,7 @@
 调用逻辑见``*_test.go``，用户可以自行修改
 
 ## 《图解设计模式》 阅读笔记（待更新）
-> [SinBlog | Note of Design Pattern](http://www.sinblog.cn)
+> [SinBlog | Note of Design Pattern](http://sinblog.cn/index.php/category/design_pattern/)
 
 ## 目前进度
 
